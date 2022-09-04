@@ -25,6 +25,6 @@ Estou começando meus estudos no desenvolvimento de sistemas e espero chegar lon
 ---
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantastx&show_icons=true&theme=dracula&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=brunodantastx&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodantastx&show_icons=true&theme=dracula&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunodantastx&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
 </div>
